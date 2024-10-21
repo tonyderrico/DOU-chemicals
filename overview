@@ -1,0 +1,17 @@
+Overview dataset
+
+conf <- confounders
+h1_bio_dou_m_urbdegree_cat_adj_metals_c #chemicals adjusted + id
+df_11.01 <- dataset creato con covariate + chemicals adjusted mothers 11.01.23
+children_chemicals_adjusted <- dataset creato con covariate + chemicals adjusted children 12.01.23 
+
+#original datasets
+imp.df.v2.3 = dataset fullexposome madre
+ap110_request_updated_02may_2022 = original covariates 
+biomarker_child_database_version_20170719
+biomarker_mother_database_20170719
+
+x5 children dataset RE + df1 (stime)
+x6 mothers dataset RE + df (stime)
+
+df_11.12_m + df_11.12_c == est + CI + chemical names and group
